@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGenerator", "DataGenerator\DataGenerator.csproj", "{D101B9A1-1004-4CD9-B2AD-E2329B62C558}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D101B9A1-1004-4CD9-B2AD-E2329B62C558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D101B9A1-1004-4CD9-B2AD-E2329B62C558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D101B9A1-1004-4CD9-B2AD-E2329B62C558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D101B9A1-1004-4CD9-B2AD-E2329B62C558}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A817CBA1-AF25-432D-A748-4A4A72853300}
+	EndGlobalSection
+EndGlobal

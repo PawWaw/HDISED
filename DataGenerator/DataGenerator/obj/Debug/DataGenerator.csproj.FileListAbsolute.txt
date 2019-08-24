@@ -1,0 +1,10 @@
+C:\Users\pawel\source\repos\HDISED\DataGenerator\DataGenerator\bin\Debug\DataGenerator.exe.config
+C:\Users\pawel\source\repos\HDISED\DataGenerator\DataGenerator\bin\Debug\DataGenerator.exe
+C:\Users\pawel\source\repos\HDISED\DataGenerator\DataGenerator\bin\Debug\DataGenerator.pdb
+C:\Users\pawel\source\repos\HDISED\DataGenerator\DataGenerator\obj\Debug\DataGenerator.csprojAssemblyReference.cache
+C:\Users\pawel\source\repos\HDISED\DataGenerator\DataGenerator\obj\Debug\DataGenerator.DataGenerator.resources
+C:\Users\pawel\source\repos\HDISED\DataGenerator\DataGenerator\obj\Debug\DataGenerator.Properties.Resources.resources
+C:\Users\pawel\source\repos\HDISED\DataGenerator\DataGenerator\obj\Debug\DataGenerator.csproj.GenerateResource.cache
+C:\Users\pawel\source\repos\HDISED\DataGenerator\DataGenerator\obj\Debug\DataGenerator.csproj.CoreCompileInputs.cache
+C:\Users\pawel\source\repos\HDISED\DataGenerator\DataGenerator\obj\Debug\DataGenerator.exe
+C:\Users\pawel\source\repos\HDISED\DataGenerator\DataGenerator\obj\Debug\DataGenerator.pdb
