@@ -1,0 +1,18 @@
+﻿  Compiling CUDA source file kernel.cu...
+  
+  C:\Users\pawel\Source\Repos\HDISED\CUDA_APP\CUDA_APP>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\bin\nvcc.exe" -gencode=arch=compute_35,code=\"sm_35,compute_35\" --use-local-env -ccbin "C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64" -x cu  -I"C:\Program Files (x86)\Visual Leak Detector\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\include"  -G   --keep-dir x64\Debug -maxrregcount=0  --machine 64 --compile -cudart static  -g   -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Fdx64\Debug\vc140.pdb /FS /Zi /RTC1 /MDd " -o x64\Debug\kernel.cu.obj "C:\Users\pawel\Source\Repos\HDISED\CUDA_APP\CUDA_APP\kernel.cu" 
+C:/Users/pawel/Source/Repos/HDISED/CUDA_APP/CUDA_APP/kernel.cu(144): warning : non-POD class type passed through ellipsis
+  
+C:/Users/pawel/Source/Repos/HDISED/CUDA_APP/CUDA_APP/kernel.cu(152): warning : non-POD class type passed through ellipsis
+  
+C:/Users/pawel/Source/Repos/HDISED/CUDA_APP/CUDA_APP/kernel.cu(106): warning : variable "c" was set but never used
+  
+C:/Users/pawel/Source/Repos/HDISED/CUDA_APP/CUDA_APP/kernel.cu(144): warning : non-POD class type passed through ellipsis
+  
+C:/Users/pawel/Source/Repos/HDISED/CUDA_APP/CUDA_APP/kernel.cu(152): warning : non-POD class type passed through ellipsis
+  
+  kernel.cu
+C:/Users/pawel/Source/Repos/HDISED/CUDA_APP/CUDA_APP/kernel.cu(144): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'std::chrono::duration<__int64,std::ratio<1,1000>>'
+C:/Users/pawel/Source/Repos/HDISED/CUDA_APP/CUDA_APP/kernel.cu(152): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'std::chrono::duration<__int64,std::ratio<1,1000>>'
+  CUDA_APP.vcxproj -> C:\Users\pawel\Source\Repos\HDISED\CUDA_APP\x64\Debug\CUDA_APP.exe
+  CUDA_APP.vcxproj -> C:\Users\pawel\Source\Repos\HDISED\CUDA_APP\x64\Debug\CUDA_APP.pdb (Full PDB)

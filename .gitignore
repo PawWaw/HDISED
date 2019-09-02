@@ -3,3 +3,9 @@
 ################################################################################
 
 /DataGenerator/.vs/DataGenerator/v15
+*.db
+*.opendb
+/CUDA_APP/.vs/CUDA_APP/v15/Server/sqlite3
+/CUDA_APP/.vs/CUDA_APP/v15/Solution.VC.db-wal
+/CUDA_APP/.vs/CUDA_APP/v15/Solution.VC.db-shm
+/CUDA_APP/.vs/CUDA_APP/v15/.suo
